@@ -8,5 +8,5 @@ se background=dark
 
 map <F7> :tabp
 map <F8> :tabn
-map <F9> :tabe
+map <F9> :tabe 
 map <F4> :tabc
